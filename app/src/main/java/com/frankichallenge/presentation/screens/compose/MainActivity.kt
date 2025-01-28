@@ -15,7 +15,5 @@ class MainActivity : ComponentActivity() {
         setContent {
             WeatherApp(weatherViewModel)
         }
-
-        weatherViewModel.getWeather()
     }
 }
