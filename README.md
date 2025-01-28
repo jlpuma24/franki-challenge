@@ -7,7 +7,6 @@
 - Fetches real-time weather data for a specified location.
 - Includes error handling to manage API failures or invalid user input.
 - Combines the traditional XML layouts and Jetpack Compose to showcase UI development flexibility, both approaches was taken in count.
-- Modular code structure to improve scalability and maintainability.
 
 ---
 

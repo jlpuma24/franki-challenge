@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FrankiChallenge</string>
+    <string name="app_name">Franki Weather</string>
     <string name="error_message">There was an error doing the request, please try again</string>
     <string name="retry">Retry</string>
 </resources>
